@@ -1,0 +1,34 @@
+.discussion, .offers, .gallery,.Giveremarks,.varieties {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.discussion h2, .offers h2, .gallery h2,.Giveremarks,.varieties{
+    color:crimson;
+}
+.first{
+    background-color:khaki;
+
+}
+img{
+    width: 50%;
+    height: 45vh;
+}
+.mainimg{   
+    width: 50%;
+    height: 50%;
+}
+li{
+    color:hotpink;
+}
+title{
+    font-family: 'Times New Roman', Times, serif;
+}
+.vareity{
+    width: 23%;
+}
+.first a:hover{
+    color:orchid;
+}
